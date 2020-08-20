@@ -10,3 +10,4 @@ C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\Trei
 C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.pdb
 C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.FrmMenu.resources
 C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.FrmCadastrarCategoria.resources
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.FrmCadastrarProduto.resources

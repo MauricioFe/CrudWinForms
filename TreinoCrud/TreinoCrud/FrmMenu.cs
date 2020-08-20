@@ -42,5 +42,12 @@ namespace TreinoCrud
             form.Show();
             this.Dispose();
         }
+
+        private void btnCadatrarProduto_Click(object sender, EventArgs e)
+        {
+            FrmCadastrarProduto form = new FrmCadastrarProduto();
+            form.Show();
+            this.Dispose();
+        }
     }
 }

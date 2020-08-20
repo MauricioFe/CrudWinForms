@@ -99,6 +99,9 @@
     <EmbeddedResource Include="FrmCadastrarCategoria.resx">
       <DependentUpon>FrmCadastrarCategoria.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadastrarProduto.resx">
+      <DependentUpon>FrmCadastrarProduto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
     </EmbeddedResource>

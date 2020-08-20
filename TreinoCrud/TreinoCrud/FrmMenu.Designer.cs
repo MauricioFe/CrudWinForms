@@ -63,6 +63,7 @@
             this.btnCadatrarProduto.TabIndex = 2;
             this.btnCadatrarProduto.Text = "Cadastrar Produto";
             this.btnCadatrarProduto.UseVisualStyleBackColor = true;
+            this.btnCadatrarProduto.Click += new System.EventHandler(this.btnCadatrarProduto_Click);
             // 
             // btnSair
             // 
@@ -85,7 +86,7 @@
             this.Controls.Add(this.lblTitulo);
             this.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FrmMenu";
