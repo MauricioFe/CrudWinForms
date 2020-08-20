@@ -1,0 +1,11 @@
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\bin\Debug\TreinoCrud.exe.config
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\bin\Debug\TreinoCrud.exe
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\bin\Debug\TreinoCrud.pdb
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.csprojAssemblyReference.cache
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.FrmLogin.resources
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.Properties.Resources.resources
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.csproj.GenerateResource.cache
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.exe
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.pdb
+C:\Users\mauri\Estudos\Treinamento\Desktop\Revisão\CrudWinForms\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.FrmMenu.resources
