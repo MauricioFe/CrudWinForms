@@ -53,6 +53,7 @@
             this.btnCadastraCategoria.TabIndex = 1;
             this.btnCadastraCategoria.Text = "Cadastrar Categoria";
             this.btnCadastraCategoria.UseVisualStyleBackColor = true;
+            this.btnCadastraCategoria.Click += new System.EventHandler(this.btnCadastraCategoria_Click);
             // 
             // btnCadatrarProduto
             // 

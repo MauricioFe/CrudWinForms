@@ -43,6 +43,7 @@
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(411, 26);
             this.txtEmail.TabIndex = 0;
+            this.txtEmail.Text = "mauricio@gmail.com";
             // 
             // txtSenha
             // 
@@ -50,6 +51,7 @@
             this.txtSenha.Name = "txtSenha";
             this.txtSenha.Size = new System.Drawing.Size(411, 26);
             this.txtSenha.TabIndex = 1;
+            this.txtSenha.Text = "123456";
             this.txtSenha.UseSystemPasswordChar = true;
             // 
             // label1
