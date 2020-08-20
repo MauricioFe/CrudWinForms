@@ -17,11 +17,23 @@ namespace TreinoCrud
         public FrmMenu(Usuario usuario)
         {
             InitializeComponent();
-            _usuario = usuario();
+            _usuario = usuario;
         }
         private void FrmMenu_Load(object sender, EventArgs e)
         {
             lblTitulo.Text += " " + _usuario.Nome;
+        }
+
+        private void lblTitulo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            FrmLogin frm = new FrmLogin();
+            frm.Show();
+            this.Dispose();
         }
     }
 }

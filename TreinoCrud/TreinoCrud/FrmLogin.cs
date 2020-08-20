@@ -44,6 +44,7 @@ namespace TreinoCrud
                 }
                 FrmMenu form = new FrmMenu(usuario);
                 form.Show();
+                this.Hide();
             }
             else
             {

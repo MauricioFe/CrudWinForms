@@ -38,11 +38,12 @@
             // 
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Consolas", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.Location = new System.Drawing.Point(86, 9);
+            this.lblTitulo.Location = new System.Drawing.Point(37, 9);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(240, 32);
             this.lblTitulo.TabIndex = 0;
             this.lblTitulo.Text = "Seja bem-vindo ";
+            this.lblTitulo.Click += new System.EventHandler(this.lblTitulo_Click);
             // 
             // btnCadastraCategoria
             // 
@@ -70,6 +71,7 @@
             this.btnSair.TabIndex = 3;
             this.btnSair.Text = "Sair";
             this.btnSair.UseVisualStyleBackColor = true;
+            this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
             // FrmMenu
             // 
